@@ -1,0 +1,3986 @@
+{
+   "1": {
+      "Name": "Flip4Flap",
+      "Missions": 309,
+      "Kills": 176,
+      "Death": 200
+   },
+   "2": {
+      "Name": "Demivar",
+      "Missions": 267,
+      "Kills": 249,
+      "Death": 188
+   },
+   "3": {
+      "Name": "Nasa",
+      "Missions": 600,
+      "Kills": 544,
+      "Death": 515
+   },
+   "6": {
+      "Name": "Mrwhite350",
+      "Missions": 289,
+      "Kills": 330,
+      "Death": 213
+   },
+   "9": {
+      "Name": "Manchot",
+      "Missions": 243,
+      "Kills": 166,
+      "Death": 196
+   },
+   "10": {
+      "Name": "[OTEA] Rick_Hunter2",
+      "Missions": 109,
+      "Kills": 50,
+      "Death": 81
+   },
+   "33": {
+      "Name": "[GHOST]Kubajs",
+      "Missions": 43,
+      "Kills": 50,
+      "Death": 29
+   },
+   "36": {
+      "Name": "[MOR] Stealth",
+      "Missions": 10,
+      "Kills": 8,
+      "Death": 11
+   },
+   "41": {
+      "Name": "Mr.cool",
+      "Missions": 225,
+      "Kills": 176,
+      "Death": 141
+   },
+   "47": {
+      "Name": "The Mr Dave",
+      "Missions": 489,
+      "Kills": 465,
+      "Death": 396
+   },
+   "55": {
+      "Name": "Alfred",
+      "Missions": 182,
+      "Kills": 167,
+      "Death": 147
+   },
+   "57": {
+      "Name": "Risbo",
+      "Missions": 325,
+      "Kills": 234,
+      "Death": 250
+   },
+   "60": {
+      "Name": "NINJA MC",
+      "Missions": 166,
+      "Kills": 96,
+      "Death": 144
+   },
+   "64": {
+      "Name": "kutulu",
+      "Missions": 13,
+      "Kills": 13,
+      "Death": 9
+   },
+   "67": {
+      "Name": "Zixme",
+      "Missions": 266,
+      "Kills": 326,
+      "Death": 182
+   },
+   "91": {
+      "Name": "Fleche",
+      "Missions": 124,
+      "Kills": 40,
+      "Death": 85
+   },
+   "160": {
+      "Name": "MadWolf",
+      "Missions": 57,
+      "Kills": 39,
+      "Death": 34
+   },
+   "187": {
+      "Name": "Bluck",
+      "Missions": 359,
+      "Kills": 433,
+      "Death": 326
+   },
+   "213": {
+      "Name": "[CTU] LEYDEN",
+      "Missions": 20,
+      "Kills": 19,
+      "Death": 15
+   },
+   "245": {
+      "Name": "Le-Sarde-Fr",
+      "Missions": 18,
+      "Kills": 7,
+      "Death": 18
+   },
+   "252": {
+      "Name": "Kali S",
+      "Missions": 201,
+      "Kills": 234,
+      "Death": 139
+   },
+   "254": {
+      "Name": "[FJB49]Roland",
+      "Missions": 340,
+      "Kills": 235,
+      "Death": 262
+   },
+   "257": {
+      "Name": "FoxHound",
+      "Missions": 63,
+      "Kills": 82,
+      "Death": 41
+   },
+   "266": {
+      "Name": "Pogo_",
+      "Missions": 302,
+      "Kills": 230,
+      "Death": 217
+   },
+   "276": {
+      "Name": "Beneris",
+      "Missions": 164,
+      "Kills": 94,
+      "Death": 112
+   },
+   "281": {
+      "Name": "Jager",
+      "Missions": 34,
+      "Kills": 18,
+      "Death": 20
+   },
+   "282": {
+      "Name": "Layra",
+      "Missions": 10,
+      "Kills": 4,
+      "Death": 6
+   },
+   "285": {
+      "Name": "Romualdas",
+      "Missions": 8,
+      "Kills": 10,
+      "Death": 3
+   },
+   "298": {
+      "Name": "CSF_Tommy",
+      "Missions": 18,
+      "Kills": 7,
+      "Death": 15
+   },
+   "301": {
+      "Name": "CSF_Sousuke",
+      "Missions": 13,
+      "Kills": 16,
+      "Death": 9
+   },
+   "311": {
+      "Name": "CSF_Fox",
+      "Missions": 31,
+      "Kills": 11,
+      "Death": 22
+   },
+   "341": {
+      "Name": "Brewer",
+      "Missions": 32,
+      "Kills": 46,
+      "Death": 20
+   },
+   "344": {
+      "Name": "Garrett Hawke",
+      "Missions": 315,
+      "Kills": 225,
+      "Death": 248
+   },
+   "347": {
+      "Name": "Hippie",
+      "Missions": 466,
+      "Kills": 433,
+      "Death": 360
+   },
+   "349": {
+      "Name": "Parthius",
+      "Missions": 240,
+      "Kills": 78,
+      "Death": 143
+   },
+   "352": {
+      "Name": "Phk4900",
+      "Missions": 433,
+      "Kills": 537,
+      "Death": 351
+   },
+   "368": {
+      "Name": "Troy",
+      "Missions": 153,
+      "Kills": 128,
+      "Death": 113
+   },
+   "401": {
+      "Name": "DarkNeo",
+      "Missions": 128,
+      "Kills": 92,
+      "Death": 90
+   },
+   "412": {
+      "Name": "Jordan",
+      "Missions": 3,
+      "Kills": 1,
+      "Death": 2
+   },
+   "424": {
+      "Name": "GoatLand",
+      "Missions": 354,
+      "Kills": 272,
+      "Death": 298
+   },
+   "442": {
+      "Name": "Noobas13",
+      "Missions": 379,
+      "Kills": 246,
+      "Death": 291
+   },
+   "449": {
+      "Name": "Bex",
+      "Missions": 20,
+      "Kills": 4,
+      "Death": 13
+   },
+   "454": {
+      "Name": "Skyline",
+      "Missions": 19,
+      "Kills": 11,
+      "Death": 15
+   },
+   "455": {
+      "Name": "Katyusha",
+      "Missions": 15,
+      "Kills": 10,
+      "Death": 12
+   },
+   "480": {
+      "Name": "CSF_Lollo",
+      "Missions": 87,
+      "Kills": 80,
+      "Death": 57
+   },
+   "484": {
+      "Name": "[1er R.C.C] TheKillian",
+      "Missions": 78,
+      "Kills": 66,
+      "Death": 63
+   },
+   "487": {
+      "Name": "[1er R.C.C] Purem",
+      "Missions": 67,
+      "Kills": 62,
+      "Death": 52
+   },
+   "488": {
+      "Name": "[1er R.C.C] Cardifure",
+      "Missions": 51,
+      "Kills": 44,
+      "Death": 46
+   },
+   "492": {
+      "Name": "CSF_Snail",
+      "Missions": 19,
+      "Kills": 20,
+      "Death": 14
+   },
+   "495": {
+      "Name": "=S.O.F=Niklas Ky",
+      "Missions": 50,
+      "Kills": 61,
+      "Death": 41
+   },
+   "500": {
+      "Name": "Elberg",
+      "Missions": 200,
+      "Kills": 107,
+      "Death": 162
+   },
+   "511": {
+      "Name": "[1er R.C.C] Starghost",
+      "Missions": 19,
+      "Kills": 16,
+      "Death": 14
+   },
+   "528": {
+      "Name": "[MOR] Masaker",
+      "Missions": 95,
+      "Kills": 27,
+      "Death": 59
+   },
+   "530": {
+      "Name": "Fact of house Logic",
+      "Missions": 198,
+      "Kills": 163,
+      "Death": 152
+   },
+   "531": {
+      "Name": "MOoriiii",
+      "Missions": 42,
+      "Kills": 31,
+      "Death": 32
+   },
+   "534": {
+      "Name": "CSF_Flanker",
+      "Missions": 21,
+      "Kills": 14,
+      "Death": 17
+   },
+   "541": {
+      "Name": "Appe",
+      "Missions": 27,
+      "Kills": 25,
+      "Death": 22
+   },
+   "542": {
+      "Name": "Vergil",
+      "Missions": 10,
+      "Kills": 5,
+      "Death": 7
+   },
+   "554": {
+      "Name": "[FJB49] Ezio",
+      "Missions": 146,
+      "Kills": 132,
+      "Death": 111
+   },
+   "558": {
+      "Name": "[C.S.E.C] Ziki_CZ",
+      "Missions": 213,
+      "Kills": 362,
+      "Death": 136
+   },
+   "559": {
+      "Name": "=S.O.F=Aaron",
+      "Missions": 15,
+      "Kills": 23,
+      "Death": 7
+   },
+   "588": {
+      "Name": "[OFCRA]Daedalus",
+      "Missions": 50,
+      "Kills": 26,
+      "Death": 39
+   },
+   "603": {
+      "Name": "Diavel",
+      "Missions": 14,
+      "Kills": 12,
+      "Death": 10
+   },
+   "647": {
+      "Name": "Baros K.",
+      "Missions": 171,
+      "Kills": 180,
+      "Death": 123
+   },
+   "651": {
+      "Name": "=S.O.F=Flash-Ranger",
+      "Missions": 9,
+      "Kills": 4,
+      "Death": 5
+   },
+   "655": {
+      "Name": "UNThatPlaysForHonor",
+      "Missions": 207,
+      "Kills": 153,
+      "Death": 161
+   },
+   "656": {
+      "Name": "Skyonline123",
+      "Missions": 164,
+      "Kills": 57,
+      "Death": 131
+   },
+   "665": {
+      "Name": "Hugin",
+      "Missions": 152,
+      "Kills": 115,
+      "Death": 135
+   },
+   "666": {
+      "Name": "Mp.Ohliger-1Cmd",
+      "Missions": 48,
+      "Kills": 35,
+      "Death": 43
+   },
+   "688": {
+      "Name": "[StB]Barmaglot",
+      "Missions": 11,
+      "Kills": 3,
+      "Death": 9
+   },
+   "689": {
+      "Name": "Donut",
+      "Missions": 21,
+      "Kills": 9,
+      "Death": 15
+   },
+   "701": {
+      "Name": "ilbinek",
+      "Missions": 74,
+      "Kills": 48,
+      "Death": 57
+   },
+   "742": {
+      "Name": "Novalpro",
+      "Missions": 6,
+      "Kills": 1,
+      "Death": 4
+   },
+   "743": {
+      "Name": "Ray",
+      "Missions": 9,
+      "Kills": 3,
+      "Death": 8
+   },
+   "747": {
+      "Name": "[MOR] Devildog",
+      "Missions": 43,
+      "Kills": 46,
+      "Death": 28
+   },
+   "757": {
+      "Name": "OStGefr. Magnoraider",
+      "Missions": 6,
+      "Kills": 5,
+      "Death": 4
+   },
+   "773": {
+      "Name": "Alekanderu",
+      "Missions": 23,
+      "Kills": 19,
+      "Death": 19
+   },
+   "774": {
+      "Name": "Nickyinsanity",
+      "Missions": 6,
+      "Kills": 0,
+      "Death": 4
+   },
+   "776": {
+      "Name": "Dahlgren",
+      "Missions": 23,
+      "Kills": 15,
+      "Death": 17
+   },
+   "778": {
+      "Name": "Metro",
+      "Missions": 8,
+      "Kills": 6,
+      "Death": 7
+   },
+   "780": {
+      "Name": "Stefan",
+      "Missions": 9,
+      "Kills": 4,
+      "Death": 9
+   },
+   "783": {
+      "Name": "BanAzze",
+      "Missions": 5,
+      "Kills": 8,
+      "Death": 5
+   },
+   "795": {
+      "Name": "Jonathan",
+      "Missions": 165,
+      "Kills": 127,
+      "Death": 128
+   },
+   "807": {
+      "Name": "[1er R.C.C] Axel",
+      "Missions": 40,
+      "Kills": 36,
+      "Death": 27
+   },
+   "809": {
+      "Name": "Azenor",
+      "Missions": 12,
+      "Kills": 5,
+      "Death": 11
+   },
+   "822": {
+      "Name": "Waschko",
+      "Missions": 3,
+      "Kills": 1,
+      "Death": 3
+   },
+   "823": {
+      "Name": "Prophet [OFCRA]",
+      "Missions": 43,
+      "Kills": 22,
+      "Death": 33
+   },
+   "824": {
+      "Name": "Crimson",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "827": {
+      "Name": "[1er R.C.C] Lucas Wood",
+      "Missions": 15,
+      "Kills": 8,
+      "Death": 16
+   },
+   "834": {
+      "Name": "Skull",
+      "Missions": 8,
+      "Kills": 3,
+      "Death": 5
+   },
+   "839": {
+      "Name": "Herobrain888",
+      "Missions": 5,
+      "Kills": 3,
+      "Death": 2
+   },
+   "864": {
+      "Name": "[6eme BAP] Shadow",
+      "Missions": 195,
+      "Kills": 187,
+      "Death": 158
+   },
+   "865": {
+      "Name": "[6eme BAP] Clement",
+      "Missions": 94,
+      "Kills": 83,
+      "Death": 74
+   },
+   "868": {
+      "Name": "BorderKeeper",
+      "Missions": 27,
+      "Kills": 31,
+      "Death": 22
+   },
+   "882": {
+      "Name": "Qm2.Picou-QGPlt",
+      "Missions": 9,
+      "Kills": 7,
+      "Death": 10
+   },
+   "884": {
+      "Name": "CSF_Mat",
+      "Missions": 27,
+      "Kills": 8,
+      "Death": 20
+   },
+   "886": {
+      "Name": "Webber",
+      "Missions": 15,
+      "Kills": 8,
+      "Death": 6
+   },
+   "887": {
+      "Name": "[1er R.C.C] Dontoto",
+      "Missions": 5,
+      "Kills": 3,
+      "Death": 2
+   },
+   "889": {
+      "Name": "Angelo",
+      "Missions": 5,
+      "Kills": 1,
+      "Death": 2
+   },
+   "897": {
+      "Name": "[1er R.C.C] Bernard",
+      "Missions": 17,
+      "Kills": 9,
+      "Death": 12
+   },
+   "913": {
+      "Name": "[MOR] MIKI",
+      "Missions": 51,
+      "Kills": 45,
+      "Death": 40
+   },
+   "914": {
+      "Name": "[MOR] Hall",
+      "Missions": 13,
+      "Kills": 13,
+      "Death": 7
+   },
+   "915": {
+      "Name": "[6eme BAP] Clem's",
+      "Missions": 17,
+      "Kills": 4,
+      "Death": 12
+   },
+   "916": {
+      "Name": "RoyDeCamper3",
+      "Missions": 401,
+      "Kills": 436,
+      "Death": 349
+   },
+   "921": {
+      "Name": "Johann Schnitter",
+      "Missions": 11,
+      "Kills": 6,
+      "Death": 9
+   },
+   "924": {
+      "Name": "CSF_Eko",
+      "Missions": 16,
+      "Kills": 12,
+      "Death": 11
+   },
+   "932": {
+      "Name": "merdy",
+      "Missions": 233,
+      "Kills": 143,
+      "Death": 184
+   },
+   "948": {
+      "Name": "Rigel",
+      "Missions": 344,
+      "Kills": 451,
+      "Death": 279
+   },
+   "950": {
+      "Name": "[1er R.C.C] Dypra",
+      "Missions": 9,
+      "Kills": 7,
+      "Death": 9
+   },
+   "953": {
+      "Name": "Pleace",
+      "Missions": 11,
+      "Kills": 16,
+      "Death": 6
+   },
+   "955": {
+      "Name": "Lux",
+      "Missions": 58,
+      "Kills": 17,
+      "Death": 46
+   },
+   "957": {
+      "Name": "Thunder",
+      "Missions": 62,
+      "Kills": 40,
+      "Death": 42
+   },
+   "958": {
+      "Name": "Sipo",
+      "Missions": 16,
+      "Kills": 2,
+      "Death": 6
+   },
+   "959": {
+      "Name": "CSF_Corvo",
+      "Missions": 7,
+      "Kills": 1,
+      "Death": 7
+   },
+   "961": {
+      "Name": "Anam",
+      "Missions": 9,
+      "Kills": 3,
+      "Death": 7
+   },
+   "962": {
+      "Name": "Sirius",
+      "Missions": 9,
+      "Kills": 2,
+      "Death": 7
+   },
+   "963": {
+      "Name": "BobWinchester",
+      "Missions": 145,
+      "Kills": 120,
+      "Death": 127
+   },
+   "973": {
+      "Name": "Alex_D20",
+      "Missions": 18,
+      "Kills": 5,
+      "Death": 14
+   },
+   "976": {
+      "Name": "[TRD]SvaroG",
+      "Missions": 9,
+      "Kills": 10,
+      "Death": 9
+   },
+   "993": {
+      "Name": "[1er R.C.C] Gabriel",
+      "Missions": 17,
+      "Kills": 14,
+      "Death": 13
+   },
+   "995": {
+      "Name": "Always",
+      "Missions": 56,
+      "Kills": 32,
+      "Death": 41
+   },
+   "996": {
+      "Name": "Saverass",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 0
+   },
+   "1000": {
+      "Name": "[TRD]Mopnex",
+      "Missions": 8,
+      "Kills": 1,
+      "Death": 7
+   },
+   "1001": {
+      "Name": "[TRD]Vinni4anin",
+      "Missions": 20,
+      "Kills": 11,
+      "Death": 16
+   },
+   "1004": {
+      "Name": "[TRD]AvAlon",
+      "Missions": 22,
+      "Kills": 12,
+      "Death": 17
+   },
+   "1005": {
+      "Name": "[L-13]Mattoni",
+      "Missions": 38,
+      "Kills": 46,
+      "Death": 27
+   },
+   "1006": {
+      "Name": "[CTU] Niko90",
+      "Missions": 3,
+      "Kills": 7,
+      "Death": 3
+   },
+   "1007": {
+      "Name": "SnakeDoctorLT",
+      "Missions": 66,
+      "Kills": 29,
+      "Death": 50
+   },
+   "1015": {
+      "Name": "[MOR] Sixor",
+      "Missions": 131,
+      "Kills": 145,
+      "Death": 82
+   },
+   "1016": {
+      "Name": "[6eme BAP] Loick",
+      "Missions": 18,
+      "Kills": 7,
+      "Death": 13
+   },
+   "1018": {
+      "Name": "[SWAG] Max Weeman",
+      "Missions": 26,
+      "Kills": 16,
+      "Death": 16
+   },
+   "1019": {
+      "Name": "[TRD]Nakpena",
+      "Missions": 21,
+      "Kills": 4,
+      "Death": 19
+   },
+   "1024": {
+      "Name": "Qm1.Gadou-2Ast",
+      "Missions": 87,
+      "Kills": 59,
+      "Death": 79
+   },
+   "1029": {
+      "Name": "Karl Konnor",
+      "Missions": 72,
+      "Kills": 51,
+      "Death": 52
+   },
+   "1031": {
+      "Name": "ilpepi87",
+      "Missions": 16,
+      "Kills": 3,
+      "Death": 11
+   },
+   "1038": {
+      "Name": "[TRD] Tikara",
+      "Missions": 13,
+      "Kills": 7,
+      "Death": 9
+   },
+   "1039": {
+      "Name": "[TRD]lvivskixlop",
+      "Missions": 20,
+      "Kills": 8,
+      "Death": 18
+   },
+   "1046": {
+      "Name": "[1er R.C.C] Pickles_Kim",
+      "Missions": 9,
+      "Kills": 3,
+      "Death": 7
+   },
+   "1047": {
+      "Name": "Pm.Le Rigoleur-1Cmd",
+      "Missions": 45,
+      "Kills": 23,
+      "Death": 43
+   },
+   "1051": {
+      "Name": "[6eme BAP] Urzuglu",
+      "Missions": 32,
+      "Kills": 4,
+      "Death": 21
+   },
+   "1052": {
+      "Name": "John",
+      "Missions": 8,
+      "Kills": 3,
+      "Death": 6
+   },
+   "1053": {
+      "Name": "Niko",
+      "Missions": 22,
+      "Kills": 7,
+      "Death": 11
+   },
+   "1054": {
+      "Name": "CSF_Gigim",
+      "Missions": 21,
+      "Kills": 6,
+      "Death": 12
+   },
+   "1055": {
+      "Name": "CSF_Shyrowaza",
+      "Missions": 4,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1059": {
+      "Name": "[1er R.C.C] Skip",
+      "Missions": 17,
+      "Kills": 15,
+      "Death": 15
+   },
+   "1065": {
+      "Name": "2nd Lt. C. McHellsten",
+      "Missions": 100,
+      "Kills": 83,
+      "Death": 72
+   },
+   "1066": {
+      "Name": "Cpl. E. Hood",
+      "Missions": 46,
+      "Kills": 33,
+      "Death": 32
+   },
+   "1067": {
+      "Name": "PV2 E. Wedgeworth",
+      "Missions": 6,
+      "Kills": 3,
+      "Death": 5
+   },
+   "1070": {
+      "Name": "Sgt. N. Shoffner",
+      "Missions": 20,
+      "Kills": 1,
+      "Death": 16
+   },
+   "1071": {
+      "Name": "[6eme BAP] Feldm",
+      "Missions": 48,
+      "Kills": 16,
+      "Death": 41
+   },
+   "1075": {
+      "Name": "CPL C. Jandreau",
+      "Missions": 7,
+      "Kills": 3,
+      "Death": 5
+   },
+   "1076": {
+      "Name": "Lt. Steel",
+      "Missions": 22,
+      "Kills": 15,
+      "Death": 15
+   },
+   "1078": {
+      "Name": "[6eme BAP] Exoduko",
+      "Missions": 6,
+      "Kills": 3,
+      "Death": 4
+   },
+   "1079": {
+      "Name": "Rikysav",
+      "Missions": 17,
+      "Kills": 7,
+      "Death": 9
+   },
+   "1080": {
+      "Name": "Cheeseburger",
+      "Missions": 276,
+      "Kills": 227,
+      "Death": 192
+   },
+   "1081": {
+      "Name": "Swede",
+      "Missions": 13,
+      "Kills": 18,
+      "Death": 9
+   },
+   "1082": {
+      "Name": "Archaeon",
+      "Missions": 16,
+      "Kills": 4,
+      "Death": 12
+   },
+   "1083": {
+      "Name": "rund",
+      "Missions": 8,
+      "Kills": 2,
+      "Death": 5
+   },
+   "1084": {
+      "Name": "Ekstranden",
+      "Missions": 17,
+      "Kills": 8,
+      "Death": 11
+   },
+   "1085": {
+      "Name": "Bestefar",
+      "Missions": 9,
+      "Kills": 4,
+      "Death": 6
+   },
+   "1086": {
+      "Name": "LucyL",
+      "Missions": 8,
+      "Kills": 3,
+      "Death": 5
+   },
+   "1087": {
+      "Name": "Loffa",
+      "Missions": 5,
+      "Kills": 2,
+      "Death": 2
+   },
+   "1088": {
+      "Name": "Skalman",
+      "Missions": 18,
+      "Kills": 8,
+      "Death": 13
+   },
+   "1089": {
+      "Name": "[1er R.C.C] Forxtop",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1090": {
+      "Name": "Adri",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1091": {
+      "Name": "R8TeD",
+      "Missions": 4,
+      "Kills": 3,
+      "Death": 3
+   },
+   "1092": {
+      "Name": "Vort",
+      "Missions": 5,
+      "Kills": 3,
+      "Death": 4
+   },
+   "1093": {
+      "Name": "Andreas",
+      "Missions": 2,
+      "Kills": 2,
+      "Death": 2
+   },
+   "1094": {
+      "Name": "Lt. S. Chair",
+      "Missions": 1,
+      "Kills": 3,
+      "Death": 1
+   },
+   "1095": {
+      "Name": "[TTC]Emperor",
+      "Missions": 1,
+      "Kills": 2,
+      "Death": 1
+   },
+   "1096": {
+      "Name": "North",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1099": {
+      "Name": "[TRD]SiM",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1100": {
+      "Name": "[TRD] Mr. Jack",
+      "Missions": 9,
+      "Kills": 4,
+      "Death": 9
+   },
+   "1101": {
+      "Name": "[1er R.C.C] Charles",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1102": {
+      "Name": "[TRD]lon4ik03",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1103": {
+      "Name": "PVT C. Espinoza",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1104": {
+      "Name": "Cpl. P. Andersson",
+      "Missions": 7,
+      "Kills": 3,
+      "Death": 4
+   },
+   "1105": {
+      "Name": "WOC P. Guy",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1106": {
+      "Name": "L. Zappkorvski",
+      "Missions": 11,
+      "Kills": 5,
+      "Death": 8
+   },
+   "1107": {
+      "Name": "LordShade",
+      "Missions": 3,
+      "Kills": 2,
+      "Death": 2
+   },
+   "1108": {
+      "Name": "varrkan_ua",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1109": {
+      "Name": "taras",
+      "Missions": 4,
+      "Kills": 1,
+      "Death": 4
+   },
+   "1110": {
+      "Name": "[UKAZ]Barmalei",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1111": {
+      "Name": "[UkAZ]SHTURM_1973",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1112": {
+      "Name": "[UkAZ]Savos",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1113": {
+      "Name": "thehunterdk",
+      "Missions": 11,
+      "Kills": 1,
+      "Death": 9
+   },
+   "1114": {
+      "Name": "Pte. L. Menin",
+      "Missions": 10,
+      "Kills": 2,
+      "Death": 6
+   },
+   "1115": {
+      "Name": "[CTU] Meme.",
+      "Missions": 2,
+      "Kills": 2,
+      "Death": 2
+   },
+   "1116": {
+      "Name": "KOLOOLOO",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1117": {
+      "Name": "A/LCpl. J. Grange",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1118": {
+      "Name": "Cpl. C. Thorpe",
+      "Missions": 4,
+      "Kills": 5,
+      "Death": 2
+   },
+   "1119": {
+      "Name": "2Lt. D. Thire",
+      "Missions": 5,
+      "Kills": 3,
+      "Death": 2
+   },
+   "1120": {
+      "Name": "Pte. T. Fisher",
+      "Missions": 5,
+      "Kills": 5,
+      "Death": 3
+   },
+   "1121": {
+      "Name": "Pte. G. Robertson",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1122": {
+      "Name": "Pte. M. Potter",
+      "Missions": 5,
+      "Kills": 0,
+      "Death": 5
+   },
+   "1123": {
+      "Name": "acog",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1124": {
+      "Name": "[MUNJE]Vuk",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 0
+   },
+   "1125": {
+      "Name": "[Munje]Aleksandar",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1126": {
+      "Name": "SSG. Kaish",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1127": {
+      "Name": "[MUNJE] Scharke",
+      "Missions": 2,
+      "Kills": 3,
+      "Death": 2
+   },
+   "1128": {
+      "Name": "Munje|Topic",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1129": {
+      "Name": "Pte. A. Baz",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1130": {
+      "Name": "Cpl. F. Stangenberger",
+      "Missions": 4,
+      "Kills": 5,
+      "Death": 3
+   },
+   "1131": {
+      "Name": "Pte. P. Valli",
+      "Missions": 4,
+      "Kills": 2,
+      "Death": 2
+   },
+   "1132": {
+      "Name": "Pte. N. Monahan",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 0
+   },
+   "1133": {
+      "Name": "Cpl. M. Standish",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1134": {
+      "Name": "[StB]Termitok",
+      "Missions": 19,
+      "Kills": 19,
+      "Death": 17
+   },
+   "1135": {
+      "Name": "CSF_Messeno",
+      "Missions": 31,
+      "Kills": 13,
+      "Death": 19
+   },
+   "1136": {
+      "Name": "Pte. Rendo",
+      "Missions": 4,
+      "Kills": 2,
+      "Death": 2
+   },
+   "1137": {
+      "Name": "denhatter",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1138": {
+      "Name": "[UkAZ]Warkas",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1139": {
+      "Name": "[1er R.C.C] Warome",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 0
+   },
+   "1140": {
+      "Name": "Pte. C. Reichert",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1141": {
+      "Name": "Pte. A. Morin",
+      "Missions": 3,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1142": {
+      "Name": "Pte. M. Bluebeard",
+      "Missions": 3,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1143": {
+      "Name": "Pte. J. Laurent",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1144": {
+      "Name": "Pte. Y. Ignatov",
+      "Missions": 3,
+      "Kills": 1,
+      "Death": 2
+   },
+   "1145": {
+      "Name": "Corto Maltese",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1146": {
+      "Name": "LCpl. C. Knight",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1147": {
+      "Name": "Vindsnabb",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1148": {
+      "Name": "Valdas",
+      "Missions": 13,
+      "Kills": 7,
+      "Death": 10
+   },
+   "1149": {
+      "Name": "SomeNorGuy",
+      "Missions": 31,
+      "Kills": 11,
+      "Death": 19
+   },
+   "1150": {
+      "Name": "Mtb.Rollin - KGinf",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1151": {
+      "Name": "Mtb.Maler-1Fsl",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 2
+   },
+   "1152": {
+      "Name": "Mtb.Archieri-QGFsl",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1153": {
+      "Name": "Mtl.Gouriou-KgFsl",
+      "Missions": 3,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1154": {
+      "Name": "|UN|Sgt.Vlad",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1155": {
+      "Name": "JoelBitar",
+      "Missions": 9,
+      "Kills": 11,
+      "Death": 7
+   },
+   "1156": {
+      "Name": "Tackle",
+      "Missions": 77,
+      "Kills": 19,
+      "Death": 57
+   },
+   "1157": {
+      "Name": "CyDoN",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1158": {
+      "Name": "Slav Vador",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1159": {
+      "Name": "L0r4n",
+      "Missions": 1,
+      "Kills": 2,
+      "Death": 1
+   },
+   "1160": {
+      "Name": "Odin Cannabis",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1161": {
+      "Name": "RazKa",
+      "Missions": 77,
+      "Kills": 109,
+      "Death": 52
+   },
+   "1162": {
+      "Name": "Otto von Bigmac",
+      "Missions": 10,
+      "Kills": 4,
+      "Death": 7
+   },
+   "1163": {
+      "Name": "Lt.Klingman (djazore)",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1164": {
+      "Name": "Cpl McLaren (Sauron)",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1165": {
+      "Name": "Popeye",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1166": {
+      "Name": "[TON] Vauban (Aigle2)",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 2
+   },
+   "1167": {
+      "Name": "Leonessa84",
+      "Missions": 7,
+      "Kills": 1,
+      "Death": 5
+   },
+   "1168": {
+      "Name": "Melt",
+      "Missions": 14,
+      "Kills": 3,
+      "Death": 11
+   },
+   "1169": {
+      "Name": "TastyFettuccine",
+      "Missions": 6,
+      "Kills": 2,
+      "Death": 5
+   },
+   "1170": {
+      "Name": "Blade",
+      "Missions": 6,
+      "Kills": 0,
+      "Death": 3
+   },
+   "1171": {
+      "Name": "[SIG] 999danny",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1172": {
+      "Name": "carioca",
+      "Missions": 14,
+      "Kills": 3,
+      "Death": 10
+   },
+   "1173": {
+      "Name": "kimi",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1174": {
+      "Name": "[5TH AR] OF-4. Dawson X",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1175": {
+      "Name": "[5th]Kofee",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1176": {
+      "Name": "[6eme BAP] Otoko",
+      "Missions": 7,
+      "Kills": 3,
+      "Death": 6
+   },
+   "1177": {
+      "Name": "Ärrow",
+      "Missions": 7,
+      "Kills": 6,
+      "Death": 7
+   },
+   "1178": {
+      "Name": "Gonzo",
+      "Missions": 15,
+      "Kills": 2,
+      "Death": 13
+   },
+   "1179": {
+      "Name": "[SIG] Tokyo (Nick)",
+      "Missions": 6,
+      "Kills": 1,
+      "Death": 5
+   },
+   "1180": {
+      "Name": "čet. NOMAD",
+      "Missions": 14,
+      "Kills": 5,
+      "Death": 6
+   },
+   "1181": {
+      "Name": "Chicago",
+      "Missions": 5,
+      "Kills": 1,
+      "Death": 4
+   },
+   "1182": {
+      "Name": "Zerogravity",
+      "Missions": 4,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1183": {
+      "Name": "CSF_Haplo",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1184": {
+      "Name": "CSF_Hunter",
+      "Missions": 2,
+      "Kills": 5,
+      "Death": 1
+   },
+   "1185": {
+      "Name": "Magnetar",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1186": {
+      "Name": "[Sargento] Kill Lixus",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1187": {
+      "Name": "[Teniente] RanTa",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1188": {
+      "Name": "[Sargento] Ari",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1189": {
+      "Name": "[Cabo] Incongo",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1190": {
+      "Name": "[Soldado] Nasso",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1191": {
+      "Name": "[Soldado] Rascarcio",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1192": {
+      "Name": "[Sargento] BigOdoX",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1193": {
+      "Name": "[Soldado 1ª] Awizor",
+      "Missions": 2,
+      "Kills": 2,
+      "Death": 1
+   },
+   "1194": {
+      "Name": "Lcpl. Liru",
+      "Missions": 18,
+      "Kills": 17,
+      "Death": 14
+   },
+   "1195": {
+      "Name": "Mad Max",
+      "Missions": 5,
+      "Kills": 2,
+      "Death": 4
+   },
+   "1196": {
+      "Name": "Sgt. D. Hovey",
+      "Missions": 10,
+      "Kills": 5,
+      "Death": 4
+   },
+   "1197": {
+      "Name": "Danne_Swede",
+      "Missions": 12,
+      "Kills": 14,
+      "Death": 7
+   },
+   "1198": {
+      "Name": "Kristo",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 2
+   },
+   "1199": {
+      "Name": "Sgt. Falcon",
+      "Missions": 9,
+      "Kills": 6,
+      "Death": 4
+   },
+   "1200": {
+      "Name": "Pte. Biscuit",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1201": {
+      "Name": "Pte. Ram",
+      "Missions": 6,
+      "Kills": 6,
+      "Death": 6
+   },
+   "1202": {
+      "Name": "[6eme BAP] Blake",
+      "Missions": 37,
+      "Kills": 18,
+      "Death": 27
+   },
+   "1203": {
+      "Name": "Cobra",
+      "Missions": 5,
+      "Kills": 6,
+      "Death": 3
+   },
+   "1204": {
+      "Name": "LCpl. Quinn",
+      "Missions": 4,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1205": {
+      "Name": "[6ème BAP] ScaniaH",
+      "Missions": 8,
+      "Kills": 4,
+      "Death": 5
+   },
+   "1206": {
+      "Name": "[6eme BAP] Bocognano",
+      "Missions": 32,
+      "Kills": 1,
+      "Death": 23
+   },
+   "1207": {
+      "Name": "Pfc. E. McKinney",
+      "Missions": 12,
+      "Kills": 4,
+      "Death": 4
+   },
+   "1208": {
+      "Name": "Wintermoon",
+      "Missions": 4,
+      "Kills": 2,
+      "Death": 2
+   },
+   "1209": {
+      "Name": "LCpl. Clacker",
+      "Missions": 8,
+      "Kills": 5,
+      "Death": 6
+   },
+   "1210": {
+      "Name": "Pte. Mills",
+      "Missions": 7,
+      "Kills": 6,
+      "Death": 3
+   },
+   "1211": {
+      "Name": "Kubackiewicz",
+      "Missions": 18,
+      "Kills": 2,
+      "Death": 11
+   },
+   "1212": {
+      "Name": "Misza",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1213": {
+      "Name": "Luffy",
+      "Missions": 10,
+      "Kills": 2,
+      "Death": 10
+   },
+   "1214": {
+      "Name": "[TON] Complex",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1215": {
+      "Name": "[6eme BAP] Alex Ora",
+      "Missions": 16,
+      "Kills": 14,
+      "Death": 7
+   },
+   "1216": {
+      "Name": "Sir Nop",
+      "Missions": 4,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1217": {
+      "Name": "Robinio",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1218": {
+      "Name": "Sgt. C. Anderson",
+      "Missions": 5,
+      "Kills": 6,
+      "Death": 0
+   },
+   "1219": {
+      "Name": "Kamiskub",
+      "Missions": 9,
+      "Kills": 7,
+      "Death": 6
+   },
+   "1220": {
+      "Name": "honger",
+      "Missions": 11,
+      "Kills": 5,
+      "Death": 9
+   },
+   "1221": {
+      "Name": "Ziemek",
+      "Missions": 25,
+      "Kills": 3,
+      "Death": 19
+   },
+   "1222": {
+      "Name": "okular",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1223": {
+      "Name": "MrBadGuy35",
+      "Missions": 11,
+      "Kills": 18,
+      "Death": 9
+   },
+   "1224": {
+      "Name": "[PV2] P.Setler",
+      "Missions": 58,
+      "Kills": 47,
+      "Death": 34
+   },
+   "1225": {
+      "Name": "ZIUM",
+      "Missions": 13,
+      "Kills": 1,
+      "Death": 12
+   },
+   "1226": {
+      "Name": "Jules",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1227": {
+      "Name": "DREED",
+      "Missions": 3,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1228": {
+      "Name": "VATICAN PSYCHO",
+      "Missions": 16,
+      "Kills": 30,
+      "Death": 9
+   },
+   "1229": {
+      "Name": "Davidaf",
+      "Missions": 5,
+      "Kills": 3,
+      "Death": 5
+   },
+   "1230": {
+      "Name": "Monika",
+      "Missions": 5,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1231": {
+      "Name": "Minos AI",
+      "Missions": 3,
+      "Kills": 4,
+      "Death": 3
+   },
+   "1232": {
+      "Name": "Carlitos",
+      "Missions": 4,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1233": {
+      "Name": "Alphamyl",
+      "Missions": 4,
+      "Kills": 2,
+      "Death": 3
+   },
+   "1234": {
+      "Name": "Xente",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 3
+   },
+   "1235": {
+      "Name": "Funy Skywalker",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1236": {
+      "Name": "Angostad",
+      "Missions": 5,
+      "Kills": 0,
+      "Death": 5
+   },
+   "1237": {
+      "Name": "Liquid",
+      "Missions": 5,
+      "Kills": 0,
+      "Death": 4
+   },
+   "1238": {
+      "Name": "PasostanRamón",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1239": {
+      "Name": "Juan Calavera Calva",
+      "Missions": 11,
+      "Kills": 4,
+      "Death": 8
+   },
+   "1240": {
+      "Name": "[SIG]Lacedemone",
+      "Missions": 11,
+      "Kills": 1,
+      "Death": 8
+   },
+   "1241": {
+      "Name": "Malgrin",
+      "Missions": 12,
+      "Kills": 5,
+      "Death": 9
+   },
+   "1242": {
+      "Name": "Abey",
+      "Missions": 1,
+      "Kills": 2,
+      "Death": 1
+   },
+   "1243": {
+      "Name": "[PV2] A.Montana",
+      "Missions": 19,
+      "Kills": 9,
+      "Death": 12
+   },
+   "1244": {
+      "Name": "Adam",
+      "Missions": 26,
+      "Kills": 12,
+      "Death": 20
+   },
+   "1245": {
+      "Name": "Bart",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1246": {
+      "Name": "TFP",
+      "Missions": 9,
+      "Kills": 6,
+      "Death": 7
+   },
+   "1247": {
+      "Name": "Drago.",
+      "Missions": 42,
+      "Kills": 46,
+      "Death": 33
+   },
+   "1248": {
+      "Name": "Dominik",
+      "Missions": 23,
+      "Kills": 16,
+      "Death": 19
+   },
+   "1249": {
+      "Name": "Kruko",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1250": {
+      "Name": "Sajgonka",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1251": {
+      "Name": "VeXenn",
+      "Missions": 97,
+      "Kills": 138,
+      "Death": 77
+   },
+   "1252": {
+      "Name": "Nowerian",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 0
+   },
+   "1253": {
+      "Name": "Kwas Acetylosalicylowy",
+      "Missions": 13,
+      "Kills": 1,
+      "Death": 9
+   },
+   "1254": {
+      "Name": "Jeremi.",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1255": {
+      "Name": "Seal Willm",
+      "Missions": 49,
+      "Kills": 32,
+      "Death": 33
+   },
+   "1256": {
+      "Name": "JAFAR",
+      "Missions": 20,
+      "Kills": 22,
+      "Death": 16
+   },
+   "1257": {
+      "Name": "Cpl. C. A. Snakesmith",
+      "Missions": 24,
+      "Kills": 11,
+      "Death": 16
+   },
+   "1258": {
+      "Name": "[6eme BAP] Benioto",
+      "Missions": 19,
+      "Kills": 10,
+      "Death": 12
+   },
+   "1259": {
+      "Name": "MalmG",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1260": {
+      "Name": "43664",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1261": {
+      "Name": "Tric Trac",
+      "Missions": 7,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1262": {
+      "Name": "Justicar",
+      "Missions": 4,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1263": {
+      "Name": "=S.O.F=Nick",
+      "Missions": 7,
+      "Kills": 17,
+      "Death": 5
+   },
+   "1264": {
+      "Name": "Apap",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1265": {
+      "Name": "roxsa",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1266": {
+      "Name": "Barbascura",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1267": {
+      "Name": "Flender",
+      "Missions": 8,
+      "Kills": 2,
+      "Death": 5
+   },
+   "1268": {
+      "Name": "Feed Me Paper",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1269": {
+      "Name": "ff7712",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1270": {
+      "Name": "IceBreakr",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1271": {
+      "Name": "Spidi-[SBP]",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1272": {
+      "Name": "Zetho",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1273": {
+      "Name": "lordi",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1274": {
+      "Name": "Skipper",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1275": {
+      "Name": "MarshMelloGuy",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1276": {
+      "Name": "-FM-",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1277": {
+      "Name": "Worst",
+      "Missions": 1,
+      "Kills": 2,
+      "Death": 1
+   },
+   "1278": {
+      "Name": "Snoopy",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1279": {
+      "Name": "Muwafaq Salah Udin",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1280": {
+      "Name": "Uncl_Sam",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1281": {
+      "Name": "Genomas",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1282": {
+      "Name": "[Soldado 1ª] Alex",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1283": {
+      "Name": "[Soldado] Stark",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1284": {
+      "Name": "CSF_Bat",
+      "Missions": 6,
+      "Kills": 1,
+      "Death": 5
+   },
+   "1285": {
+      "Name": "[FJB49] Zed",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1286": {
+      "Name": "Pfc. D. Doyle",
+      "Missions": 5,
+      "Kills": 2,
+      "Death": 1
+   },
+   "1287": {
+      "Name": "Pzgren.Stadler.23PzD",
+      "Missions": 121,
+      "Kills": 68,
+      "Death": 92
+   },
+   "1288": {
+      "Name": "[StB]MEХBOD",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 2
+   },
+   "1289": {
+      "Name": "[StB]OPAHYC",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1290": {
+      "Name": "[StB]Hammer",
+      "Missions": 4,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1291": {
+      "Name": "Dourdent",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1292": {
+      "Name": "Sdo1ª. Javi Bermejo",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1293": {
+      "Name": "Ghost",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1294": {
+      "Name": "Giorgio",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 0
+   },
+   "1295": {
+      "Name": "Szymekl",
+      "Missions": 3,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1296": {
+      "Name": "ImFriendlyDino",
+      "Missions": 14,
+      "Kills": 12,
+      "Death": 11
+   },
+   "1297": {
+      "Name": "Mr.Squirrel",
+      "Missions": 6,
+      "Kills": 4,
+      "Death": 5
+   },
+   "1298": {
+      "Name": "Żegota Czarny III",
+      "Missions": 7,
+      "Kills": 10,
+      "Death": 7
+   },
+   "1299": {
+      "Name": "Ádám",
+      "Missions": 59,
+      "Kills": 21,
+      "Death": 49
+   },
+   "1300": {
+      "Name": "Shadow Stalker",
+      "Missions": 7,
+      "Kills": 3,
+      "Death": 5
+   },
+   "1301": {
+      "Name": "Gefr.Weiss.23PzD",
+      "Missions": 3,
+      "Kills": 6,
+      "Death": 1
+   },
+   "1302": {
+      "Name": "Pvt A. Osiadacz",
+      "Missions": 10,
+      "Kills": 4,
+      "Death": 7
+   },
+   "1303": {
+      "Name": "Gestapo",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1304": {
+      "Name": "[TRD] TIHAR",
+      "Missions": 6,
+      "Kills": 2,
+      "Death": 6
+   },
+   "1305": {
+      "Name": "[TRD]Soroka",
+      "Missions": 8,
+      "Kills": 3,
+      "Death": 7
+   },
+   "1306": {
+      "Name": "[TRD] teo",
+      "Missions": 5,
+      "Kills": 4,
+      "Death": 5
+   },
+   "1307": {
+      "Name": "Shay",
+      "Missions": 104,
+      "Kills": 101,
+      "Death": 78
+   },
+   "1308": {
+      "Name": "Dimitris",
+      "Missions": 6,
+      "Kills": 1,
+      "Death": 4
+   },
+   "1309": {
+      "Name": "Blee",
+      "Missions": 10,
+      "Kills": 3,
+      "Death": 9
+   },
+   "1310": {
+      "Name": "David",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 0
+   },
+   "1311": {
+      "Name": "marie",
+      "Missions": 9,
+      "Kills": 5,
+      "Death": 6
+   },
+   "1312": {
+      "Name": "[1-COT] Cyrus [1-COT]",
+      "Missions": 9,
+      "Kills": 3,
+      "Death": 8
+   },
+   "1313": {
+      "Name": "Jim",
+      "Missions": 11,
+      "Kills": 2,
+      "Death": 11
+   },
+   "1314": {
+      "Name": "Ameer Hussain",
+      "Missions": 137,
+      "Kills": 55,
+      "Death": 109
+   },
+   "1315": {
+      "Name": "GEO",
+      "Missions": 6,
+      "Kills": 2,
+      "Death": 5
+   },
+   "1316": {
+      "Name": "Ntinos",
+      "Missions": 6,
+      "Kills": 3,
+      "Death": 3
+   },
+   "1317": {
+      "Name": "Corey_",
+      "Missions": 8,
+      "Kills": 2,
+      "Death": 6
+   },
+   "1318": {
+      "Name": "Elas",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1319": {
+      "Name": "[C.S.E.C] QiN3TiX",
+      "Missions": 5,
+      "Kills": 3,
+      "Death": 1
+   },
+   "1320": {
+      "Name": "Prof.Helmut",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1321": {
+      "Name": "Pedersen",
+      "Missions": 8,
+      "Kills": 7,
+      "Death": 6
+   },
+   "1322": {
+      "Name": "ArmouredSP",
+      "Missions": 8,
+      "Kills": 7,
+      "Death": 5
+   },
+   "1323": {
+      "Name": "MajorCon",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1324": {
+      "Name": "CSF_Skull",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1325": {
+      "Name": "CSF_Kanfa",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1326": {
+      "Name": "CSF_Flip",
+      "Missions": 11,
+      "Kills": 3,
+      "Death": 5
+   },
+   "1327": {
+      "Name": "CSF_Falc",
+      "Missions": 4,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1328": {
+      "Name": "BLACKJACK69",
+      "Missions": 5,
+      "Kills": 1,
+      "Death": 2
+   },
+   "1329": {
+      "Name": "Dready",
+      "Missions": 5,
+      "Kills": 0,
+      "Death": 4
+   },
+   "1330": {
+      "Name": "CSF_L0rd",
+      "Missions": 5,
+      "Kills": 5,
+      "Death": 3
+   },
+   "1331": {
+      "Name": "CSF_It's Coming Rome",
+      "Missions": 6,
+      "Kills": 1,
+      "Death": 6
+   },
+   "1332": {
+      "Name": "Kaczuska223",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1333": {
+      "Name": "[TRD]Serge-UNR",
+      "Missions": 4,
+      "Kills": 2,
+      "Death": 3
+   },
+   "1334": {
+      "Name": "Skipu_12",
+      "Missions": 96,
+      "Kills": 64,
+      "Death": 76
+   },
+   "1335": {
+      "Name": "Śledziu",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1336": {
+      "Name": "[SIG]R1220",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 0
+   },
+   "1337": {
+      "Name": "Jonny raven",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1338": {
+      "Name": "Saiko",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1339": {
+      "Name": "[6ème BAP] cassie",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1340": {
+      "Name": "Miko",
+      "Missions": 5,
+      "Kills": 0,
+      "Death": 5
+   },
+   "1341": {
+      "Name": "Bartisius",
+      "Missions": 6,
+      "Kills": 3,
+      "Death": 7
+   },
+   "1342": {
+      "Name": "Nearch",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1343": {
+      "Name": "[TRD]SKIF",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1344": {
+      "Name": "X42X",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1345": {
+      "Name": "[6eme BAP] Axel",
+      "Missions": 5,
+      "Kills": 2,
+      "Death": 4
+   },
+   "1346": {
+      "Name": "Green",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1347": {
+      "Name": "Pvt. Z. Shiftbolt",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1348": {
+      "Name": "[33eSS] L. De Brabant",
+      "Missions": 5,
+      "Kills": 3,
+      "Death": 5
+   },
+   "1349": {
+      "Name": "[33eSS] P. d'Artenois",
+      "Missions": 6,
+      "Kills": 7,
+      "Death": 5
+   },
+   "1350": {
+      "Name": "[33eSS] F de Rive",
+      "Missions": 5,
+      "Kills": 3,
+      "Death": 4
+   },
+   "1351": {
+      "Name": "[33eSS] L. Merckel",
+      "Missions": 6,
+      "Kills": 1,
+      "Death": 6
+   },
+   "1352": {
+      "Name": "[33eSS]S.l'Agneau",
+      "Missions": 6,
+      "Kills": 1,
+      "Death": 6
+   },
+   "1353": {
+      "Name": "[33eSS] Ernst Frühmman",
+      "Missions": 6,
+      "Kills": 3,
+      "Death": 4
+   },
+   "1354": {
+      "Name": "[ML]VSGT  Paladin",
+      "Missions": 4,
+      "Kills": 5,
+      "Death": 2
+   },
+   "1355": {
+      "Name": "[ML] Edwin Brotch",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1356": {
+      "Name": "Hans Gruberr",
+      "Missions": 4,
+      "Kills": 5,
+      "Death": 3
+   },
+   "1357": {
+      "Name": "Pawulec",
+      "Missions": 4,
+      "Kills": 4,
+      "Death": 3
+   },
+   "1358": {
+      "Name": "Sgt. X. Noryt",
+      "Missions": 20,
+      "Kills": 4,
+      "Death": 17
+   },
+   "1359": {
+      "Name": "Cpl.J.Juno",
+      "Missions": 28,
+      "Kills": 11,
+      "Death": 22
+   },
+   "1360": {
+      "Name": "smart",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1361": {
+      "Name": "[ДП] Breeze",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 0
+   },
+   "1362": {
+      "Name": "J.Larry",
+      "Missions": 6,
+      "Kills": 8,
+      "Death": 2
+   },
+   "1363": {
+      "Name": "Pzgren.Réz.23PzD",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1364": {
+      "Name": "P. Jonathan",
+      "Missions": 22,
+      "Kills": 18,
+      "Death": 21
+   },
+   "1365": {
+      "Name": "Szymek",
+      "Missions": 3,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1366": {
+      "Name": "silwerrobot",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1367": {
+      "Name": "=S.O.F=Timo",
+      "Missions": 3,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1368": {
+      "Name": "=S.O.F= Inari",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1369": {
+      "Name": "J.Eil. Saruks",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1370": {
+      "Name": "Depso",
+      "Missions": 33,
+      "Kills": 29,
+      "Death": 27
+   },
+   "1371": {
+      "Name": "CSF_Koch",
+      "Missions": 3,
+      "Kills": 2,
+      "Death": 2
+   },
+   "1372": {
+      "Name": "Anubissis",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1373": {
+      "Name": "Tymek",
+      "Missions": 24,
+      "Kills": 20,
+      "Death": 15
+   },
+   "1374": {
+      "Name": "CSF_Max",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1375": {
+      "Name": "Kumer",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1376": {
+      "Name": "Nicotron",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1377": {
+      "Name": "[FAWR] Nanard",
+      "Missions": 26,
+      "Kills": 13,
+      "Death": 21
+   },
+   "1378": {
+      "Name": "Sonkei",
+      "Missions": 3,
+      "Kills": 1,
+      "Death": 2
+   },
+   "1379": {
+      "Name": "[FAWR]Edwards James",
+      "Missions": 16,
+      "Kills": 13,
+      "Death": 10
+   },
+   "1380": {
+      "Name": "Cooper Lastimosa",
+      "Missions": 3,
+      "Kills": 6,
+      "Death": 0
+   },
+   "1381": {
+      "Name": "[FAWR] Zairtyx",
+      "Missions": 21,
+      "Kills": 13,
+      "Death": 18
+   },
+   "1382": {
+      "Name": "[FAWR] Loann",
+      "Missions": 10,
+      "Kills": 3,
+      "Death": 7
+   },
+   "1383": {
+      "Name": "Hans-Golden",
+      "Missions": 3,
+      "Kills": 4,
+      "Death": 2
+   },
+   "1384": {
+      "Name": "[FAWR] Vlad Dourêve",
+      "Missions": 26,
+      "Kills": 11,
+      "Death": 19
+   },
+   "1385": {
+      "Name": "Bangie",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1386": {
+      "Name": "|Kable|™",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1387": {
+      "Name": "Mike64",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1388": {
+      "Name": "Cpl. L.Sledz",
+      "Missions": 4,
+      "Kills": 0,
+      "Death": 3
+   },
+   "1389": {
+      "Name": "B. Short",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1390": {
+      "Name": "R. Thompson",
+      "Missions": 7,
+      "Kills": 1,
+      "Death": 7
+   },
+   "1391": {
+      "Name": "J. Martin",
+      "Missions": 8,
+      "Kills": 3,
+      "Death": 8
+   },
+   "1392": {
+      "Name": "Semi",
+      "Missions": 5,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1393": {
+      "Name": "furygamer",
+      "Missions": 11,
+      "Kills": 1,
+      "Death": 9
+   },
+   "1394": {
+      "Name": "Aiden",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1395": {
+      "Name": "CobaNeno",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1396": {
+      "Name": "szant",
+      "Missions": 15,
+      "Kills": 3,
+      "Death": 9
+   },
+   "1397": {
+      "Name": "Jadziek",
+      "Missions": 2,
+      "Kills": 2,
+      "Death": 2
+   },
+   "1398": {
+      "Name": "Natashan",
+      "Missions": 5,
+      "Kills": 2,
+      "Death": 5
+   },
+   "1399": {
+      "Name": "[LCDR] R.Briggs",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1400": {
+      "Name": "Kamień-Biały",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1401": {
+      "Name": "[FAWR] Gordei Gontcharov",
+      "Missions": 20,
+      "Kills": 17,
+      "Death": 18
+   },
+   "1402": {
+      "Name": "[FAWR] Baku",
+      "Missions": 29,
+      "Kills": 39,
+      "Death": 26
+   },
+   "1403": {
+      "Name": "[LTN]Bobby.C",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1404": {
+      "Name": "lusod",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1405": {
+      "Name": "Sgt. Hermann",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1406": {
+      "Name": "Connall McCarthy",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1407": {
+      "Name": "Mass",
+      "Missions": 5,
+      "Kills": 2,
+      "Death": 4
+   },
+   "1408": {
+      "Name": "M1ke",
+      "Missions": 1,
+      "Kills": 5,
+      "Death": 1
+   },
+   "1409": {
+      "Name": "ryan",
+      "Missions": 1,
+      "Kills": 2,
+      "Death": 0
+   },
+   "1410": {
+      "Name": "LCpl. Pete",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1411": {
+      "Name": "Nemesis",
+      "Missions": 3,
+      "Kills": 6,
+      "Death": 3
+   },
+   "1412": {
+      "Name": "Azariah",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1413": {
+      "Name": "InfadelC",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1414": {
+      "Name": "Ld.Acm M.Liam",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1415": {
+      "Name": "1stTpr. F. Survivor",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1416": {
+      "Name": "Pte. P. Stephen",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1417": {
+      "Name": "P. Rodrig",
+      "Missions": 21,
+      "Kills": 7,
+      "Death": 17
+   },
+   "1419": {
+      "Name": "[PLH] Twigking",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 2
+   },
+   "1420": {
+      "Name": "[FAWR] Loutre",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 3
+   },
+   "1421": {
+      "Name": "Gator",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1422": {
+      "Name": "[CTU] walgia",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 2
+   },
+   "1423": {
+      "Name": "Firaxo",
+      "Missions": 7,
+      "Kills": 2,
+      "Death": 3
+   },
+   "1424": {
+      "Name": "Giovanni Costello",
+      "Missions": 54,
+      "Kills": 49,
+      "Death": 40
+   },
+   "1425": {
+      "Name": "1stPte. J. Bishops",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1426": {
+      "Name": "Cpt. A. Astra",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1427": {
+      "Name": "Johny Depp",
+      "Missions": 3,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1428": {
+      "Name": "rhyswilliams999",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1429": {
+      "Name": "[~StB~]PaverLight",
+      "Missions": 7,
+      "Kills": 4,
+      "Death": 4
+   },
+   "1430": {
+      "Name": "ReBeL",
+      "Missions": 7,
+      "Kills": 3,
+      "Death": 5
+   },
+   "1431": {
+      "Name": "[StB]Riedler",
+      "Missions": 6,
+      "Kills": 7,
+      "Death": 5
+   },
+   "1432": {
+      "Name": "[FAWR] Lucien",
+      "Missions": 5,
+      "Kills": 6,
+      "Death": 5
+   },
+   "1433": {
+      "Name": "[FAWR] Hubert Trepel",
+      "Missions": 5,
+      "Kills": 7,
+      "Death": 5
+   },
+   "1434": {
+      "Name": "[FAWR] White",
+      "Missions": 10,
+      "Kills": 9,
+      "Death": 9
+   },
+   "1435": {
+      "Name": "[FAWR] slucky",
+      "Missions": 3,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1436": {
+      "Name": "[FAWR] Vasky",
+      "Missions": 5,
+      "Kills": 6,
+      "Death": 5
+   },
+   "1437": {
+      "Name": "S. Lynx",
+      "Missions": 4,
+      "Kills": 2,
+      "Death": 3
+   },
+   "1438": {
+      "Name": "† Templar_ex_ignis †",
+      "Missions": 11,
+      "Kills": 3,
+      "Death": 10
+   },
+   "1439": {
+      "Name": "Falcon",
+      "Missions": 10,
+      "Kills": 18,
+      "Death": 10
+   },
+   "1440": {
+      "Name": "PVT. E. Varg",
+      "Missions": 4,
+      "Kills": 3,
+      "Death": 2
+   },
+   "1441": {
+      "Name": "I-Iobbi",
+      "Missions": 10,
+      "Kills": 2,
+      "Death": 7
+   },
+   "1442": {
+      "Name": "Solek",
+      "Missions": 11,
+      "Kills": 3,
+      "Death": 8
+   },
+   "1443": {
+      "Name": "Pingus",
+      "Missions": 8,
+      "Kills": 5,
+      "Death": 5
+   },
+   "1444": {
+      "Name": "Alban",
+      "Missions": 6,
+      "Kills": 3,
+      "Death": 4
+   },
+   "1445": {
+      "Name": "Psiaq",
+      "Missions": 20,
+      "Kills": 13,
+      "Death": 17
+   },
+   "1446": {
+      "Name": "MaittiWIN",
+      "Missions": 4,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1447": {
+      "Name": "Icek",
+      "Missions": 9,
+      "Kills": 2,
+      "Death": 6
+   },
+   "1448": {
+      "Name": "Galant",
+      "Missions": 4,
+      "Kills": 0,
+      "Death": 3
+   },
+   "1449": {
+      "Name": "Little Tank",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1450": {
+      "Name": "[FAWR] Skibur",
+      "Missions": 15,
+      "Kills": 5,
+      "Death": 12
+   },
+   "1451": {
+      "Name": "[FAWR] Limbo",
+      "Missions": 4,
+      "Kills": 6,
+      "Death": 4
+   },
+   "1452": {
+      "Name": "[FAWR] Alexandre Sauer",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1453": {
+      "Name": "[FAWR] Bakka49",
+      "Missions": 11,
+      "Kills": 2,
+      "Death": 6
+   },
+   "1454": {
+      "Name": "Joda_cz",
+      "Missions": 15,
+      "Kills": 7,
+      "Death": 10
+   },
+   "1455": {
+      "Name": "Kez",
+      "Missions": 17,
+      "Kills": 12,
+      "Death": 14
+   },
+   "1456": {
+      "Name": "Kenionatus",
+      "Missions": 3,
+      "Kills": 4,
+      "Death": 3
+   },
+   "1457": {
+      "Name": "FRYZ",
+      "Missions": 4,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1458": {
+      "Name": "Cparty",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1459": {
+      "Name": "[FAWR] Ethan Price",
+      "Missions": 23,
+      "Kills": 14,
+      "Death": 17
+   },
+   "1460": {
+      "Name": "[TA] uMOC",
+      "Missions": 3,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1461": {
+      "Name": "[TNA] 6oTer",
+      "Missions": 5,
+      "Kills": 2,
+      "Death": 5
+   },
+   "1462": {
+      "Name": "PIONEER",
+      "Missions": 5,
+      "Kills": 3,
+      "Death": 5
+   },
+   "1463": {
+      "Name": "[TA] Авангард",
+      "Missions": 3,
+      "Kills": 4,
+      "Death": 1
+   },
+   "1464": {
+      "Name": "[TNA] Zuko",
+      "Missions": 2,
+      "Kills": 2,
+      "Death": 2
+   },
+   "1465": {
+      "Name": "Crys_",
+      "Missions": 3,
+      "Kills": 3,
+      "Death": 2
+   },
+   "1466": {
+      "Name": "Sushi",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1467": {
+      "Name": "Dark",
+      "Missions": 9,
+      "Kills": 5,
+      "Death": 8
+   },
+   "1468": {
+      "Name": "lobit",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1469": {
+      "Name": "[FAWR]Wanted",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1470": {
+      "Name": "[FAWR] Cyrus",
+      "Missions": 13,
+      "Kills": 9,
+      "Death": 9
+   },
+   "1471": {
+      "Name": "Ciastkoo",
+      "Missions": 8,
+      "Kills": 0,
+      "Death": 7
+   },
+   "1472": {
+      "Name": "[FAWR] Mulan Fa",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1473": {
+      "Name": "[FAWR]doudzzwood",
+      "Missions": 1,
+      "Kills": 2,
+      "Death": 0
+   },
+   "1474": {
+      "Name": "Uryszato",
+      "Missions": 7,
+      "Kills": 2,
+      "Death": 8
+   },
+   "1475": {
+      "Name": "TheAdaamek",
+      "Missions": 5,
+      "Kills": 3,
+      "Death": 5
+   },
+   "1476": {
+      "Name": "ENEMY",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1477": {
+      "Name": "Eagletres4",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1478": {
+      "Name": "Seegan",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1479": {
+      "Name": "Laev",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1480": {
+      "Name": "Mvments",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1481": {
+      "Name": "Thétard",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1482": {
+      "Name": "Migoyan",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1483": {
+      "Name": "Nitro",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1484": {
+      "Name": "Doritos",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1485": {
+      "Name": "Rkt.Niemann.23PzD",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1486": {
+      "Name": "Hellmann.23PzD",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1487": {
+      "Name": "Graf-Maximus [RKKA]",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 2
+   },
+   "1488": {
+      "Name": "Pzgren.Wilke.23PzD",
+      "Missions": 5,
+      "Kills": 4,
+      "Death": 4
+   },
+   "1489": {
+      "Name": "[FAWR] beckert",
+      "Missions": 4,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1490": {
+      "Name": "B. Smith",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1491": {
+      "Name": "Damix",
+      "Missions": 3,
+      "Kills": 2,
+      "Death": 2
+   },
+   "1492": {
+      "Name": "Weiss",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1493": {
+      "Name": "Primo",
+      "Missions": 2,
+      "Kills": 3,
+      "Death": 0
+   },
+   "1494": {
+      "Name": "Diablo",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1495": {
+      "Name": "Michus",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1496": {
+      "Name": "ZeBrA",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1497": {
+      "Name": "Kelnar",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1498": {
+      "Name": "Ivno",
+      "Missions": 13,
+      "Kills": 5,
+      "Death": 11
+   },
+   "1499": {
+      "Name": "Rixuuu",
+      "Missions": 4,
+      "Kills": 2,
+      "Death": 4
+   },
+   "1500": {
+      "Name": "Iskra-10",
+      "Missions": 2,
+      "Kills": 2,
+      "Death": 1
+   },
+   "1501": {
+      "Name": "Cookie",
+      "Missions": 2,
+      "Kills": 5,
+      "Death": 1
+   },
+   "1502": {
+      "Name": "le'Carrefour",
+      "Missions": 2,
+      "Kills": 3,
+      "Death": 2
+   },
+   "1503": {
+      "Name": "Zimmerman",
+      "Missions": 3,
+      "Kills": 1,
+      "Death": 2
+   },
+   "1504": {
+      "Name": "Dima",
+      "Missions": 5,
+      "Kills": 5,
+      "Death": 2
+   },
+   "1505": {
+      "Name": "Corleone",
+      "Missions": 5,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1506": {
+      "Name": "Hauptmann",
+      "Missions": 16,
+      "Kills": 5,
+      "Death": 14
+   },
+   "1507": {
+      "Name": "Lt J. Bert [1RW]",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1508": {
+      "Name": "[FAWR] George Ulvitch",
+      "Missions": 3,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1509": {
+      "Name": ".TRS.",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1510": {
+      "Name": "[TNA] Cybernetik",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1511": {
+      "Name": "Mamy",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1512": {
+      "Name": "BenO",
+      "Missions": 15,
+      "Kills": 7,
+      "Death": 12
+   },
+   "1513": {
+      "Name": "[UTG] ACR",
+      "Missions": 4,
+      "Kills": 7,
+      "Death": 3
+   },
+   "1514": {
+      "Name": "Ohayo",
+      "Missions": 3,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1515": {
+      "Name": "BanY",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1516": {
+      "Name": "Navy",
+      "Missions": 4,
+      "Kills": 0,
+      "Death": 3
+   },
+   "1517": {
+      "Name": "Acer",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1518": {
+      "Name": "Reksio",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1519": {
+      "Name": "[FAWR] Wang",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1520": {
+      "Name": "Alex",
+      "Missions": 4,
+      "Kills": 1,
+      "Death": 3
+   },
+   "1521": {
+      "Name": "Swolla",
+      "Missions": 7,
+      "Kills": 2,
+      "Death": 7
+   },
+   "1522": {
+      "Name": "CSF_Dog",
+      "Missions": 2,
+      "Kills": 2,
+      "Death": 1
+   },
+   "1523": {
+      "Name": "Pfc. Z. Nicholson",
+      "Missions": 1,
+      "Kills": 3,
+      "Death": 1
+   },
+   "1524": {
+      "Name": "Nordicprophet",
+      "Missions": 3,
+      "Kills": 3,
+      "Death": 3
+   },
+   "1525": {
+      "Name": "CSF_Wulfrin",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1526": {
+      "Name": "andy-",
+      "Missions": 3,
+      "Kills": 4,
+      "Death": 2
+   },
+   "1527": {
+      "Name": "Pietrać-_-",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1528": {
+      "Name": "Adriantus",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1529": {
+      "Name": "[MOR] Aja",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1530": {
+      "Name": "Pavlosky",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1531": {
+      "Name": "Auelos",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1532": {
+      "Name": "[AA] Shy",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1533": {
+      "Name": "Mazz38",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1534": {
+      "Name": "Olaf",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1535": {
+      "Name": "Tolly",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1536": {
+      "Name": "[TAS]Nikso",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1537": {
+      "Name": "Greenthumb-",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1538": {
+      "Name": "Lea_nyx",
+      "Missions": 1,
+      "Kills": 2,
+      "Death": 1
+   },
+   "1539": {
+      "Name": "G.Legs",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1540": {
+      "Name": "Mallen",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1541": {
+      "Name": "Janizki_Fin",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1542": {
+      "Name": "Naffes",
+      "Missions": 1,
+      "Kills": 2,
+      "Death": 1
+   },
+   "1543": {
+      "Name": "[17thRB]Cpl.Adrian",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1544": {
+      "Name": "Ash",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 2
+   },
+   "1545": {
+      "Name": "Mihai",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1546": {
+      "Name": "Korvak",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1547": {
+      "Name": "Fred",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1548": {
+      "Name": "[4IB] C. Taylor",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1549": {
+      "Name": "[4IB] O. Dryden",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1550": {
+      "Name": "[4IB] J. Skipper",
+      "Missions": 2,
+      "Kills": 3,
+      "Death": 1
+   },
+   "1551": {
+      "Name": "[4IB] S. Banks",
+      "Missions": 2,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1552": {
+      "Name": "PFC France",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 0
+   },
+   "1553": {
+      "Name": "PFC Van Wyk",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1554": {
+      "Name": "PFC Gates",
+      "Missions": 1,
+      "Kills": 2,
+      "Death": 1
+   },
+   "1555": {
+      "Name": "Pvt. Cliff",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1556": {
+      "Name": "T5 Rodd",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1557": {
+      "Name": "PFC Dogfor",
+      "Missions": 1,
+      "Kills": 2,
+      "Death": 1
+   },
+   "1558": {
+      "Name": "Sgt. Falenty",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1559": {
+      "Name": "Arma Jesus",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1560": {
+      "Name": "Guy Fieri",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1561": {
+      "Name": "Vince",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1562": {
+      "Name": "[FAWR] Antacks",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1563": {
+      "Name": "Patriot -",
+      "Missions": 1,
+      "Kills": 4,
+      "Death": 1
+   },
+   "1564": {
+      "Name": "A.Muniz",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1565": {
+      "Name": "[FAWR] Arsenik",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1566": {
+      "Name": "_ReeMeeK_",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1567": {
+      "Name": "Alkochochlik",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1568": {
+      "Name": "xSteel",
+      "Missions": 2,
+      "Kills": 0,
+      "Death": 2
+   },
+   "1569": {
+      "Name": "Jasin",
+      "Missions": 2,
+      "Kills": 3,
+      "Death": 0
+   },
+   "1570": {
+      "Name": "CSF_Racex",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1571": {
+      "Name": "PVT R. Budrys",
+      "Missions": 1,
+      "Kills": 2,
+      "Death": 1
+   },
+   "1572": {
+      "Name": "CSF_IlReverendo",
+      "Missions": 1,
+      "Kills": 2,
+      "Death": 1
+   },
+   "1573": {
+      "Name": "Dedos",
+      "Missions": 1,
+      "Kills": 2,
+      "Death": 1
+   },
+   "1574": {
+      "Name": "Patrykus",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1575": {
+      "Name": "Radek",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1576": {
+      "Name": "Tobias",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1577": {
+      "Name": "Azvel",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1578": {
+      "Name": "Jera",
+      "Missions": 1,
+      "Kills": 2,
+      "Death": 0
+   },
+   "1579": {
+      "Name": "RedEffect",
+      "Missions": 1,
+      "Kills": 3,
+      "Death": 0
+   },
+   "1580": {
+      "Name": "Xmel",
+      "Missions": 1,
+      "Kills": 2,
+      "Death": 1
+   },
+   "1581": {
+      "Name": "baen't",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1582": {
+      "Name": "Linkon",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 1
+   },
+   "1583": {
+      "Name": "jaszczur353",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1584": {
+      "Name": "MerX",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1585": {
+      "Name": "XENO",
+      "Missions": 1,
+      "Kills": 3,
+      "Death": 0
+   },
+   "1586": {
+      "Name": "Haweł2711",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1587": {
+      "Name": "Punisher",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1588": {
+      "Name": "ZxC",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 0
+   },
+   "1589": {
+      "Name": "Black",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 2
+   },
+   "1590": {
+      "Name": "Archer",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1591": {
+      "Name": "Trojan",
+      "Missions": 1,
+      "Kills": 0,
+      "Death": 1
+   },
+   "1592": {
+      "Name": "Krytack",
+      "Missions": 1,
+      "Kills": 1,
+      "Death": 1
+   }
+}
